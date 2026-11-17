@@ -1,0 +1,6 @@
+{
+  "name": "Bolão Mega da Virada — Reservas e Pix",
+  "description": "Sistema de reserva de cotas para bolões da Mega da Virada com cópia automática da chave Pix, prazo de pagamento e sincronização direta com a aba RESERVAS no Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
